@@ -1,4 +1,4 @@
-Quantum Quest - Tic Tac Toe Game
+## Quantum Quest - Tic Tac Toe Game
 
 Quantum Quest is a fun and engaging Tic Tac Toe game built using React Native. It offers a modern and intuitive user interface along with exciting gameplay features.
 
